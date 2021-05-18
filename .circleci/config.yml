@@ -5,4 +5,3 @@ jobs:
       - image: circleci/php:7.3-node-browsers
     steps:
       - run: echo "Hello World"
-      
